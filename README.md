@@ -1,0 +1,1 @@
+Código para coleta de notícias relacionadas à Reforma Tributária brasileira no período de 01/01/2019 a 20/12/2023. Pode ser facilmente adaptado para coletar notícias relacionadas a outro tema e em outro período.
